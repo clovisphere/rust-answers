@@ -4,5 +4,5 @@
 
 // begins program execution
 fn main() {
-	println!("Hello, world!");
+	println!("Hello, Rust!");
 }
