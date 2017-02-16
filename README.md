@@ -1,3 +1,3 @@
 # rust-practice
 
-Rust from the ground-up.. Nothing fancy or complex. Simple scripts to both learn the language (well its syntax, at least) and have a feel of system programming.
+Rust from the ground-up.. Simple scripts to learn the language (well its syntax, at least) and try my hands at *System Programming*.
