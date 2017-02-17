@@ -1,5 +1,4 @@
 // 'Guess-the-number' game implemented in Rust.
-// From the 'Rust Programming Language' book.
 
 extern crate rand;
 
