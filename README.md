@@ -1,5 +1,11 @@
-# rust-practice
+# Rust Answers
 
-Rust from the ground-up.
+Contains my solutions to the exercises in [The Rust Programming Language](https://doc.rust-lang.org/book/) book.
 
-Simple scripts to learn the language (well its syntax, at least), using (mostly) [The Rust Programming Language](https://doc.rust-lang.org/book/) book as my learning companion.
+### Usage
+
+Run the below command in any folder to run program. You can learn more about cargo [here](https://doc.rust-lang.org/cargo/).
+
+```rust
+$ cargo run
+```
